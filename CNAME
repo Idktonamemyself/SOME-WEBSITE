@@ -1,1 +1,19 @@
-weirdkidsite.net
+Type: A
+Name / Host: @
+Value / Points to: 185.199.108.153
+TTL: 3600 (or default)
+
+Type: A
+Name / Host: @
+Value / Points to: 185.199.109.153
+TTL: 3600 (or default)
+
+Type: A
+Name / Host: @
+Value / Points to: 185.199.110.153
+TTL: 3600 (or default)
+
+Type: A
+Name / Host: @
+Value / Points to: 185.199.111.153
+TTL: 3600 (or default)
