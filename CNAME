@@ -1,1 +1,3 @@
-www.weirdkidsite.net
+Type: CNAME
+Name: www
+Value: weirdkidsite.net
